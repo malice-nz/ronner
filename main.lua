@@ -67,7 +67,7 @@ Ronner.Config	= {
 	SafeArea		= true;
 	SafeAreaPadding	= { Top = 0, Bottom = 0, Left = 0, Right = 0 };
 
-	Theme	= 'Light';
+	Theme	= 'Dark';
 
 	Colours = {
 		Dark = {
