@@ -8,12 +8,12 @@ You can run Ronner using the <code>main.lua</code>, or, the official shortlink.
 
 ### GitHub
 ```lua
-local Ronner = loadstring(game:HttpGet'https://ronner.malice.nz')':3'
+local Ronner = loadstring(game:HttpGet'https://raw.githubusercontent.com/malice-nz/ronner/refs/heads/main/main.lua')':3'
 ```
 
 ### Shortlink
 ```lua
-local Ronner = loadstring(game:HttpGet'https://ronner.malice.nz')':3'
+local Ronner = loadstring(game:HttpGet'https://r.malice.nz')':3'
 ```
 
 <h1></h1>
