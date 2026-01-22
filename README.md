@@ -20,7 +20,7 @@ local Ronner = loadstring(game:HttpGet'https://r.malice.nz')':3'
 Heres a small example
 
 ```lua
-local Ronner = loadstring(game:HttpGet'https://ronner.malice.nz')':3'
+local Ronner = loadstring(game:HttpGet'https://r.malice.nz')':3'
 
 Ronner.Init();
 
